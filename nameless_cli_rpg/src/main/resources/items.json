@@ -1,0 +1,18 @@
+{"weapons": [
+    {"name": "sword", "damage": 6, "category": "sword"},
+    {"name": "longsword", "damage": 7, "category": "sword"},
+    {"name": "greatsword", "damage": 10, "category": "sword"},
+    {"name": "light mace", "damage": 6, "category": "mace"},
+    {"name": "heavy mace", "damage": 7, "category": "mace"},
+    {"name": "warhammer", "damage": 10, "category": "mace"},
+    {"name": "small axe", "damage": 6, "category": "axe"},
+    {"name": "greataxe", "damage": 10, "category": "axe"},
+    {"name": "shortbow", "damage": 4, "category": "bow"},
+    {"name": "longbow", "damage": 6, "category": "bow"},
+    {"name": "crossbow", "damage": 7, "category": "bow"}
+],
+"potions": [
+    {"name": "light potion", "healingPoints": 8, "category": "potion"},
+    {"name": "medium potion", "healingPoints": 15, "category": "potion"},
+    {"name": "large potion", "healingPoints": 2147483647, "category": "potion"}
+]}

@@ -1,0 +1,25 @@
+# Maven output folder
+target/
+
+# Packaged files/apps
+*.jar
+*.war
+*.ear
+
+# Java Compiled Classes
+*.class
+
+# The Maven wrapper that comes with Spring Boot
+.mvn/wrapper/maven-wrapper.jar
+
+# VSCode files
+.vscode/
+
+# Log files
+*.log
+log/
+
+# OS files (MacOS and Windows)
+.DS_Store
+Thumbs.db
+
