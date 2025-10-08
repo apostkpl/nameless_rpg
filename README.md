@@ -11,4 +11,8 @@ __In this project we'll use:__
 
 This is a test project, the goal is not to make a full fun game, and may never be finalized.
 
+__Tools used in this project:__
+
+[![tools](https://skillicons.dev/icons?i=windows,debian,vscode,java,spring,maven,bash,git)](https://skillicons.dev)
+
 _There are no "binaries" or install files available. And probably never will._
