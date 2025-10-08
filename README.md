@@ -2,16 +2,16 @@
 
 Welcome to one of my pet projects. This project is intended to demonstrate the good ol' Java as a general purpose language.
 
-__In this project we'll use:__
+### In this project we'll use:
 
 - _OOP (Classes, Abstraction, Encapsulation, Inheritance)_
 - _Commonly used Java folder structures_
 - _Newer technologies that complement Java, like Maven and Spring Boot_
 - _SQL queries and database maintenance_
 
-This is a test project, the goal is not to make a full fun game, and may never be finalized.
+__Important__:This is a test project, the goal is not to make a full fun game, and may never be finalized.
 
-__Tools used in this project:__
+### Tools used in this project:
 
 [![tools](https://skillicons.dev/icons?i=windows,debian,vscode,java,spring,maven,bash,git)](https://skillicons.dev)
 
